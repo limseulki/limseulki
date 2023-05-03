@@ -42,15 +42,5 @@
 
 <br>
 
-
-<!--
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limseulki&layout=compact)](https://github.com/limseulki/github-readme-stats)
-
-
-[링크 걸고 싶을 때]
-<a href="url" > <h3>:muscle: Problem Solving </h3> </a>
-
--->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=limslki333)](https://solved.ac/limslki333)
