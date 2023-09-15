@@ -6,7 +6,8 @@
 
 ### 👋 **안녕하세요!** 
 - 💻 백엔드 엔지니어를 꿈꾸는 임슬기입니다.
-- 😉 차분함과 끈기로 무장하고 열심히 노력중입니다.  
+- 😉 차분함과 끈기를 가지고 문제를 해결합니다.
+- 🏃‍♀️꾸준하게 개발을 하려고 노력하고 있습니다.
 
 <br>
 
@@ -21,9 +22,8 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </div>
 
 <br>
