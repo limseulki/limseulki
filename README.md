@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=LIM%20SEULKI%20:D&fontAlignY=41"/>
 
-<div align="right">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flimseulki&count_bg=%23FFEB82&title_bg=%23252525&icon=github.svg&icon_color=%23FBFBFB&title=GitHub&edge_flat=false"/></a>
-</div>
-
 ### 👋 **안녕하세요!** 
 - 💻 백엔드 엔지니어 임슬기입니다.
 - 😉 **차분함과 끈기**를 가지고 어려운 문제를 해결하는 것을 즐깁니다.
