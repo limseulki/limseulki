@@ -37,7 +37,7 @@
 
 <br>
 
-<a href="https://github.com/limseulki?tab=repositories">![seulki's GitHub stats](https://github-readme-stats.vercel.app/api?username=limseulki&show_icons=true&hide=contribs,prs&bg_color=00000000)</a>
+<!-- <a href="https://github.com/limseulki?tab=repositories">![seulki's GitHub stats](https://github-readme-stats.vercel.app/api?username=limseulki&show_icons=true&hide=contribs,prs&bg_color=00000000)</a> -->
 
 <br>
 
