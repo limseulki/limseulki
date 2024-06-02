@@ -6,11 +6,11 @@
 - 🙋‍♀️사람들과 커뮤니케이션을 통해 **함께 성장**하는 것을 믿습니다.
 - 🏃‍♀️ 새로운 것을 배우기 위해 **도전**하는 것을 두려워하지 않습니다.
 
-<br>
+ <!-- <br> -->
 
- 💬 **Blog**
- 
-<a href="https://seulki1105.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/></a>
+ <!--  💬 **Blog** -->
+
+ <!-- <a href="https://seulki1105.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/></a> -->
 
 <br>
 
